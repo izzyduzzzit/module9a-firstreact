@@ -3,18 +3,18 @@
 # Module 9A - Build Your First React Component
 
 ## Description
-This is a React app created using Vite that renders a UserProfile component. The component includes a name, bio, and image styled with inline CSS.
+This is a React app created using Vite that renders a UserProfile component. The component includes a name, bio, and image styled with inline CSS. I also added a second component to better understand React. I added the ContactCard component.
 
 ## What I Learned
 - How to set up a React project using Vite
 - How to write and structure a functional React component
 - How to use JSX and inline styles
 - How to render a component in App.jsx
-- I also spent some time watching videos re: react, vite, props, usestate, & useeffect to better
+- I also spent some time watching videos re: React, Vite, props, useState, & useEffect to better
   understand what exactly I am doing in addition to the reading. I think it is very cool that once
-  you finish with your app build using react you then build it into html and javascript output that
-  uses the react code to output DOM manipulating javascript code for the browser to render. I was
-  wondering if vite was a web server or if react had to run on a web server to render code. That is
+  you finish with your app build using React you then build it into html and javascript output that
+  uses the React code to output DOM manipulating javascript code for the browser to render. I was
+  wondering if vite was a web server or if React had to run on a web server to render code. That is
   not the case. React seems very useful, readable, and structured. I enjoy it quite a bit, but the
   coding structure was a bit of a learning curve at first, but makes a lot of sense in the end. :D
 
