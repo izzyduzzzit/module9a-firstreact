@@ -10,9 +10,18 @@ This is a React app created using Vite that renders a UserProfile component. The
 - How to write and structure a functional React component
 - How to use JSX and inline styles
 - How to render a component in App.jsx
+- I also spent some time watching videos re: react, vite, props, usestate, & useeffect to better
+  understand what exactly I am doing in addition to the reading. I think it is very cool that once
+  you finish with your app build using react you then build it into html and javascript output that
+  uses the react code to output DOM manipulating javascript code for the browser to render. I was
+  wondering if vite was a web server or if react had to run on a web server to render code. That is
+  not the case. React seems very useful, readable, and structured. I enjoy it quite a bit, but the
+  coding structure was a bit of a learning curve at first, but makes a lot of sense in the end. :D
 
 ## Challenges
-Briefly describe any errors, bugs, or confusion you encountered and how you solved it.
+I had challenges trying to understand useEffect, but I get it now. I also had a bit of a challenge trying to understand the structural logic of React jsx code, because it was confusing seeing functions
+within funcitons and multiple returns, but after some review I understand and think it's a rather cool
+way to organize coding for dynamic content. When we build our apps it will use the code to output html and javascript for client side rendering by the browser so we can host on any webserver without needing
+to run any kind of react or vite process. It is very cool.
 
 ## Screenshot
-Add a screenshot of your rendered component (you can drag and drop it here if using GitHub web interface).
